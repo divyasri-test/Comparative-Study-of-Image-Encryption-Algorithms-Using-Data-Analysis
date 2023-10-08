@@ -1,0 +1,6 @@
+Algorithm,Flexibility and Modification,Known Attacks
+DES,NO,Brute Force Attack
+3DES,YES,"Brute Force Attack, Chosen Plaintext, Known Plaintext"
+AES,YES,Side Channel Attack
+Blowfish,YES,Dictionary Attack
+RSA,YES,Factoring the Public Key

@@ -1,0 +1,3 @@
+Algorithm,AES (256-bit),DES (56-bit),3DES (168-bit) , Blowfish (128-bit), RSA (2048-bit)
+Total Average Time,152431,166800,178494,182875,259978
+Throughput(MByte/sec),8.630882,7.887374,7.370634,7.194062,5.060482

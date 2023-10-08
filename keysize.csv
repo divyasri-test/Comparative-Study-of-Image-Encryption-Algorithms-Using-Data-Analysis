@@ -1,0 +1,6 @@
+Algorithm,Key Size
+DES,56
+3DES,112
+AES,128
+Blowfish,128
+RSA,1024

@@ -1,0 +1,6 @@
+Algorithm,Structure
+DES,Feistel
+3DES,Feistel
+AES,Substitution-Permutation
+Blowfish,Feistel
+RSA,Factorization

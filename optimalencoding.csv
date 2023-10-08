@@ -1,0 +1,6 @@
+Algorithm,optimal encoding bits
+DES,27
+3DES,40
+AES,256
+Blowfish,128
+RSA,44

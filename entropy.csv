@@ -1,0 +1,6 @@
+Algorithm,Average entropy per byte of encryption
+DES,2.9477
+3DES,2.9477
+AES,3.84024
+Blowfish,3.93891
+RSA,3.0958
